@@ -89,10 +89,6 @@ Contributions are welcome! To contribute to ShareGen:
    ```
 5. Create a new Pull Request.
 
-## Community
-
-Join our vibrant Discord community with over 27,000 members for support, feedback, and collaboration. Your contributions and insights are highly valued!
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
